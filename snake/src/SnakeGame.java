@@ -47,7 +47,7 @@ public class SnakeGame {
         // reset both methods to zero.
 
     }
-    private static int getRecursiveChecks(){
+    private stati int getRecursiveChecks(){
 
         return -1;
     }
