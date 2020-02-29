@@ -12,6 +12,7 @@ public class SnakeGame {
     public SnakeGame(boolean[][] array, int x, int y) {
         for (int i = 0; i < array.length; i++) {
             for (int j = 0; j < array[i].length; j++) {
+
                 game[i][j] = array[i][j];
             }
         }
